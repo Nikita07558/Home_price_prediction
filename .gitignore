@@ -1,0 +1,10 @@
+
+server/venv_server/
+
+
+server/__pycache__/
+*.py[cod]
+
+
+.vscode/
+.DS_Store
