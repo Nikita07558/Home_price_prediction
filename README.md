@@ -1,4 +1,4 @@
-App is Live on :- https://home-price-prediction-jpir.onrender.com
+
 
 # 🏠 Real Estate Price Prediction Project
 
@@ -14,7 +14,7 @@ This project predicts real estate prices using **machine learning (Linear Regres
 | `datascienceprojng.ipynb`| Full ML pipeline: preprocessing, EDA, model training, tuning |
 | `housing_data.csv`       |  Dataset with features like total_sqft, bhk, bath            |
 
----
+App is Live on :- https://home-price-prediction-jpir.onrender.com
 
 ## 🚀 Objectives
 
